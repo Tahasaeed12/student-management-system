@@ -10,3 +10,6 @@ This is an end-to-end Full Stack CRUD Application created for the Advanced Web D
 ## Features
 * Create, Read, Update, and Delete student records without page reload (SPA).
 * Fully responsive UI layout.
+
+## Author
+* **Taha Saeed**
