@@ -3,7 +3,7 @@
 This is an end-to-end Full Stack CRUD Application created for the Advanced Web Development course assignment. 
 
 ## Technology Stack
-* **Frontend:** HTML5, Bootstrap 5, JavaScript (Fetch API)
+* **Frontend:** HTML5, CSS, BootStrap 5, JavaScript (Fetch API)
 * **Backend:** PHP
 * **Database:** MySQL
 
@@ -12,4 +12,4 @@ This is an end-to-end Full Stack CRUD Application created for the Advanced Web D
 * Fully responsive UI layout.
 
 ## Author
-* **Taha Saeed**
+* ** Taha Saeed**
